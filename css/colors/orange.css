@@ -12,58 +12,58 @@
 
 /* 1. Template Orange */
 .container .line {
-	background: #f26b38;
+	background: #0064b5;
 }
 
 a:hover {
-	color: #f26b38;
+	color: #0064b5;
 }
 
 a.btn.fill,
 .btn.fill {
-	background: #f26b38;
-	border-color: #f26b38;
+	background: #0064b5;
+	border-color: #0064b5;
 }
 
 a.btn:hover,
 .btn:hover {
-	background: #f26b38;
-	border-color: #f26b38;
+	background: #0064b5;
+	border-color: #0064b5;
 }
 
 .preloader .load {
-	color: #f26b38;
+	color: #0064b5;
 }
 
 .preloader .typed-load,
 .preloader .typed-cursor {
-	color: #f26b38;
+	color: #0064b5;
 }
 
 input:focus,
 textarea:focus,
 button:focus {
-	border-bottom-color: #f26b38;
+	border-bottom-color: #0064b5;
 }
 
 button:hover {
-	border-bottom-color: #f26b38;
+	border-bottom-color: #0064b5;
 }
 
 @media (min-width: 580px) {
 	.glitch-effect-white:before,
 	.glitch-effect-white:after {
-		background: #f26b38;
+		background: #0064b5;
 	}
 
 	.glitch-effect:after,
 	.glitch-effect-white:after {
-		text-shadow: -1px 0 #f26b38;
+		text-shadow: -1px 0 #0064b5;
 	}
 
 	.glitch-effect:before,
 	.glitch-effect-white:before {
-		text-shadow: 2px 0 #f26b38;
+		text-shadow: 2px 0 #0064b5;
 	}
 
 }
@@ -71,82 +71,82 @@ button:hover {
 header .head-top .menu-btn:hover:before,
 header .head-top .menu-btn:hover:after,
 header .head-top .menu-btn:hover span {
-  background: #f26b38;
+  background: #0064b5;
 }
 
 header .head-top .top-menu ul li.active a {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 header .head-top .top-menu ul li.active .btn {
-  background: #f26b38;
-  border-color: #f26b38;
+  background: #0064b5;
+  border-color: #0064b5;
 }
 
 .section.started .mouse_btn {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 .info-list ul li strong {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 .resume-items .resume-item:before {
-  background: #f26b38;
+  background: #0064b5;
 }
 
 .resume-items .resume-item .date {
-  color: #f26b38;
-  border-color: #f26b38;
+  color: #0064b5;
+  border-color: #0064b5;
 }
 
 .resume-items .resume-item .date:before {
-  background: #f26b38;
+  background: #0064b5;
 }
 
 .skills ul li .progress .percentage {
-  background: #f26b38;
+  background: #0064b5;
 }
 
 .service-items .service-item .icon {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 .section.works .filters label.glitch-effect {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 .box-items .box-item:hover .desc .name {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 .box-items .box-item .image .info .centrize {
-  background: #f26b38;
+  background: #0064b5;
 }
 
 .date {
-  color: #f26b38;
-  border-color: #f26b38;
+  color: #0064b5;
+  border-color: #0064b5;
 }
 
 footer .soc a:hover .ion {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 .skills.dotted ul li .progress .da span {
-  background: #f26b38!important;
+  background: #0064b5!important;
 }
 
 .skills.list ul li .name:before {
-  color: #f26b38;
+  color: #0064b5;
 }
 
 .skills ul li .progress .percentage {
-  background: #f26b38;
+  background: #0064b5;
 }
 
 .skills.dotted ul li .progress .da span {
-  background: #f26b38;
+  background: #0064b5;
 }
 
 .skills.circles .progress .bar, 
@@ -200,5 +200,5 @@ footer .soc a:hover .ion {
 .skills.circles .progress.p98 .fill, 
 .skills.circles .progress.p99 .fill, 
 .skills.circles .progress.p100 .fill {
-  border-color: #f26b38;
+  border-color: #0064b5;
 }
